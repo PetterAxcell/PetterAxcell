@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="420" viewBox="0 0 1440 420" role="img" aria-labelledby="title desc">
+  <title id="title">Petter Axcell — AI Research Engineer</title>
+  <desc id="desc">A graphite and cyan personal banner: health, privacy and applied AI. Barcelona.</desc>
+  <defs>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#252D35" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0F1215"/>
+      <stop offset="1" stop-color="#14242B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1440" height="420" rx="18" fill="url(#fade)"/>
+  <rect x="930" y="0" width="510" height="420" fill="url(#grid)" opacity=".55"/>
+  <rect x="0" y="0" width="8" height="420" rx="4" fill="#00E5FF"/>
+  <g font-family="Inter, Arial, sans-serif">
+    <text x="66" y="78" font-size="20" font-weight="600" letter-spacing="4" fill="#00E5FF">AI RESEARCH ENGINEER</text>
+    <text x="60" y="188" font-size="88" font-weight="750" letter-spacing="-3" fill="#F4F7F9">PETTER AXCELL</text>
+    <text x="66" y="240" font-size="27" fill="#A8B8C4">Health · Privacy · Applied AI</text>
+    <path d="M66 283 H870" stroke="#34414A" stroke-width="1"/>
+    <text x="66" y="337" font-size="20" fill="#D1DBE1">RESEARCH</text>
+    <path d="M202 330 H257 M249 324 L257 330 L249 336" stroke="#00E5FF" stroke-width="2" fill="none"/>
+    <text x="284" y="337" font-size="20" fill="#D1DBE1">ENGINEERING</text>
+    <path d="M448 330 H503 M495 324 L503 330 L495 336" stroke="#00E5FF" stroke-width="2" fill="none"/>
+    <text x="530" y="337" font-size="20" fill="#D1DBE1">REAL PROBLEMS</text>
+    <text x="66" y="383" font-size="16" letter-spacing="2" fill="#8499A6">BARCELONA</text>
+  </g>
+  <g stroke="#00E5FF" stroke-width="1.5" opacity=".5" fill="none">
+    <path d="M1060 102 L1196 82 L1320 144 L1260 260 L1116 292 L1032 208 Z"/>
+    <path d="M1060 102 L1260 260 M1196 82 L1116 292 M1032 208 L1320 144"/>
+    <path d="M1060 102 L1176 188 L1320 144 M1032 208 L1176 188 L1260 260 M1196 82 L1176 188 L1116 292"/>
+  </g>
+  <g fill="#0F1215" stroke="#00E5FF" stroke-width="2.5">
+    <circle cx="1060" cy="102" r="9"/>
+    <circle cx="1196" cy="82" r="9"/>
+    <circle cx="1320" cy="144" r="9"/>
+    <circle cx="1260" cy="260" r="9"/>
+    <circle cx="1116" cy="292" r="9"/>
+    <circle cx="1032" cy="208" r="9"/>
+  </g>
+  <circle cx="1176" cy="188" r="14" fill="#00E5FF"/>
+  <circle cx="1260" cy="260" r="4" fill="#FF8A3D" stroke="none"/>
+  <text x="1168" y="358" text-anchor="middle" font-family="monospace" font-size="17" fill="#8499A6">data · models · people</text>
+</svg>
